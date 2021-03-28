@@ -1,2 +1,2 @@
 include ':retrofit_json'
-rootProject.name = "test007"
+rootProject.name = "Retrofit_json"
