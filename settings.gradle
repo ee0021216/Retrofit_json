@@ -1,0 +1,9 @@
+include ':retrofit_json'
+include ':1602a_OPENData_PM25_OKhttp'
+include ':1602_OPENData_PM25_OKhttp'
+include ':myapplication'
+include ':Attractions'
+include ':Biker_life0313'
+include ':1915_GmapMySQLallME'
+include ':goolgeUp_add_map0303'
+rootProject.name = "test007"
